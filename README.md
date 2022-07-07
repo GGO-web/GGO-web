@@ -54,8 +54,6 @@
 
   ![Snake animation](https://github.com/ggo-web/ggo-web/blob/output/github-contribution-grid-snake.svg)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggo-web&show_icons=true&count_private=true)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggo-web&layout=compact)](https://github.com/ggo-web/github-readme-stats)
   
 </div>
