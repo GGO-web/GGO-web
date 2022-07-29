@@ -1,9 +1,9 @@
 <div align="center">
   <div id="header">
-    <img src="https://media4.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.webp?cid=ecf05e47t1bud735yyfux03gwri7ltdv2eo0ewc0wsdexj2d&rid=giphy.webp&ct=g" width="200" height="200"/>
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47o09r60pwsdl6d8nfix96oejxnge41xs8th92h35j&rid=200.webp&ct=g" width="200"/>
   </div>
 
-  <h1>Hi there 👋</h1>
+  <h1>Hello👋 my coder friend or best viewer ever</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/andriy-oleksievets-9b056b219/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,7 @@
 </div>
 
 - 🔭 I’m currently working in EPAM Laboratory with Front-End frameworks
-- 🌱 I’m currently learning how to build web apps on Angular
+- 🌱 I’m currently learning how to build web apps on Node.js and other similar tools
 - 👯 I’m looking to collaborate with outsourcing/product company
 - :computer: I’m looking to help you with some problems in front-end or find the optimal solution for other programming problems
 - 💬 Ask me about everything you want, I'm open to communications and new connections
