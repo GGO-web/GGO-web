@@ -14,10 +14,10 @@
   </div>
 </div>
 
-- 🔭 I’m currently working in EPAM Laboratory with Front-End frameworks
-- 🌱 I’m currently learning how to build web apps on Node.js and other similar tools
+- 🔭 I’m currently coding easy-to-hard supervised/unsupervised AI algorithms and doing small experiments with them at the university
+- 🌱 I’m currently learning how to build mobile apps using React Native with UI Frameworks and state manager Redux Toolkit
 - 👯 I’m looking to collaborate with outsourcing/product company
-- :computer: I’m looking to help you with some problems in front-end or find the optimal solution for other programming problems
+- :computer: I’m looking to help you with some problems in Front-End or find the optimal solution for other programming problems
 - 💬 Ask me about everything you want, I'm open to communications and new connections
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-oleksievets-9b056b219/)
 - ⚡ Fun fact: like to ride a bicycle with the speed of light in leather gloves
