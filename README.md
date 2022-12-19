@@ -1,6 +1,7 @@
 <div align="center">
   <div id="header">
-    <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200"/>
+<!--     <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200"/> -->
+    <img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611ad3354c9d16573eb9b23e47365c19947ce0b7ebe&rid=giphy.gif" width="300"/>
   </div>
 
   <h1>Hello👋 my coder friend or best viewer ever</h1>
@@ -14,14 +15,18 @@
   </div>
 </div>
 
-- 🔭 I’m currently coding easy-to-hard supervised/unsupervised AI algorithms and doing small experiments with them at the university
-- 🌱 I’m currently learning how to build mobile apps using React Native with UI Frameworks and state manager Redux Toolkit
-- 👯 I’m looking to collaborate with outsourcing/product company
+- :flying_saucer: My aim now to work with an outsourcing/product company
+
+- 🔭 I have been working on the EcoStations app in a team & organizing Front-end team members' jobs and writing and reviewing code, 
+now I continue working on mobile Camping App
+- 🌱 I'm currently learning advanced coding practice to make code cleaner & faster
+
 - :computer: I’m looking to help you with some problems in Front-End or find the optimal solution for other programming problems
 - 💬 Ask me about everything you want, I'm open to communications and new connections
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-oleksievets-9b056b219/)
 - ⚡ Fun fact: like to ride a bicycle with the speed of light in leather gloves
 
+  
 ### :small_airplane: Some Tools I Have Used and Learned :
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
@@ -47,8 +52,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
-
 <hr>
+
+<div align="center">
+  <h2 align="center">Thank you for viewing my profile and Happy New Year!</h2>
+  <img src="https://media.giphy.com/media/kY8Si93psXLnIGy6zq/giphy.gif" width="500"/>
+</div>
+
 
 <div>
 
@@ -57,10 +67,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggo-web&layout=compact)](https://github.com/ggo-web/github-readme-stats)
   
 </div>
-
-<!--
-**GGO-web/GGO-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
