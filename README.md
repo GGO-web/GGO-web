@@ -15,10 +15,10 @@
   </div>
 </div>
 
-- :flying_saucer: My aim now to work with an outsourcing/product company
+- :flying_saucer: My aim is to work with an outsourcing/product company
 
-- 🔭 I have been working on the EcoStations app in a team & organizing Front-end team members' jobs and writing and reviewing code, 
-now I continue working on mobile Camping App
+- 🔭 I have been working on the EcoStations app in a team & organizing jobs across all Front-end team members, writing and reviewing code. 
+- I am continuing to work on the mobile Camping App now.
 - 🌱 I'm currently learning advanced coding practice to make code cleaner & faster
 
 - :computer: I’m looking to help you with some problems in Front-End or find the optimal solution for other programming problems
