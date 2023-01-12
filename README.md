@@ -54,16 +54,8 @@
 </div>
 <hr>
 
-<div align="center">
-  <h2 align="center">Thank you for viewing my profile and Happy New Year!</h2>
-  <img src="https://media.giphy.com/media/kY8Si93psXLnIGy6zq/giphy.gif" width="500"/>
-</div>
-
-
 <div>
 
   ![Snake animation](https://github.com/ggo-web/ggo-web/blob/output/github-contribution-grid-snake.svg)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggo-web&layout=compact)](https://github.com/ggo-web/github-readme-stats)
-  
 </div>
