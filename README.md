@@ -18,11 +18,11 @@
 - :flying_saucer: My aim is to work with an outsourcing/product company
 
 - 🔭 I have been working on the EcoStations app in a team & organizing jobs across all Front-end team members, writing and reviewing code. 
-- I am continuing to work on the mobile Camping App now.
-- 🌱 I'm currently learning advanced coding practice to make code cleaner & faster
+- I am working on Camping API now.
+- 🌱 I'm currently looking for new work opportunities.
 
-- :computer: I’m looking to help you with some problems in Front-End or find the optimal solution for other programming problems
-- 💬 Ask me about everything you want, I'm open to communications and new connections
+- :computer: I’m looking to help you with some problems in Front-End or find the best solution for practice problems
+- 💬 Ask me about everything you want, I'm open to constructive communication and new working connections
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-oleksievets-9b056b219/)
 - ⚡ Fun fact: like to ride a bicycle with the speed of light in leather gloves
 
@@ -58,4 +58,6 @@
 
   ![Snake animation](https://github.com/ggo-web/ggo-web/blob/output/github-contribution-grid-snake.svg)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggo-web&layout=compact)](https://github.com/ggo-web/github-readme-stats)
+  
 </div>
