@@ -15,16 +15,15 @@
   </div>
 </div>
 
-- :flying_saucer: My aim is to work with an outsourcing/product company
+- :flying_saucer: My aim is to make life easier by developing smart AI systems
 
 - 🔭 I have been working on the EcoStations app in a team & organizing jobs across all Front-end team members, writing and reviewing code. 
-- I am working on Camping API now.
-- 🌱 I'm currently looking for new work opportunities.
+- 🌱 I am working on a front-end project with AI integration now.
 
 - :computer: I’m looking to help you with some problems in Front-End or find the best solution for practice problems
 - 💬 Ask me about everything you want, I'm open to constructive communication and new working connections
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-oleksievets-9b056b219/)
-- ⚡ Fun fact: like to ride a bicycle with the speed of light in leather gloves
+- ⚡ Fun fact: like to ride a bicycle with the speed of light in leather gloves.
 
   
 ### :small_airplane: Some Tools I Have Used and Learned :
