@@ -4,7 +4,7 @@
     <img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611ad3354c9d16573eb9b23e47365c19947ce0b7ebe&rid=giphy.gif" width="300"/>
   </div>
 
-  <h1>Hello👋 my coder friend or best viewer ever</h1>
+  <h1>Hello there! 👋 It's great to connect with you, whether you're a fellow coder or simply the best viewer ever</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/andriy-oleksievets-9b056b219/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,15 +15,15 @@
   </div>
 </div>
 
-- :flying_saucer: My aim is to make life easier by developing smart AI systems
+- :flying_saucer: My core mission is to streamline life and enhance efficiency through the development of intelligent AI systems.
 
-- 🔭 I have been working on the EcoStations app in a team & organizing jobs across all Front-end team members, writing and reviewing code. 
-- 🌱 I am working on a front-end project with AI integration now.
+- 🔭 As a lead developer and project architect, I've adeptly managed teams, optimized workflows, and ensured code excellence through meticulous review. 
+- 🌱 Currently, I'm immersed in cutting-edge front-stack projects, focusing on real-time voice mode conversations and sophisticated agent mode integrations.
 
-- :computer: I’m looking to help you with some problems in Front-End or find the best solution for practice problems
-- 💬 Ask me about everything you want, I'm open to constructive communication and new working connections
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-oleksievets-9b056b219/)
-- ⚡ Fun fact: like to ride a bicycle with the speed of light in leather gloves.
+- :computer: I'm eager to assist with your challenges or to architect optimal solutions for complex practical problems.
+- 💬 Feel free to engage in dialogue about anything; I value constructive communication and am always open to forging new professional connections.
+- 📫 Connect with me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andriy-oleksievets-9b056b219/)
+- ⚡ Fun fact: I enjoy cycling at the speed of light, always clad in leather gloves.
 
   
 ### :small_airplane: Some Tools I Have Used and Learned :
@@ -54,8 +54,6 @@
 <hr>
 
 <div>
-
-  ![Snake animation](https://github.com/ggo-web/ggo-web/blob/output/github-contribution-grid-snake.svg)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggo-web&layout=compact)](https://github.com/ggo-web/github-readme-stats)
   
